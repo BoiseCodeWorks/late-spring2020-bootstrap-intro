@@ -1,0 +1,27 @@
+header{
+  height: 100vh;
+}
+
+.alert{
+  border: 5px solid transparent;
+}
+
+.alert-cool{
+  color: #d11cc8;
+  background-color: #59e3f5;
+  border-color: #5e1df7;
+}
+
+.btn-cool{
+background-color: #59e3f5;
+}
+
+.btn-outline-cool {
+  color: #d11cc8;
+}
+
+.btn-outline-cool:hover {
+background-color: #5e1df7;
+color: #59e3f5;
+
+}
